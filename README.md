@@ -1,15 +1,15 @@
 This is the official repository for the paper titled **C3MM: Clique-Closure based Hyperlink Prediction** by *Govind Sharma*, *Prasanna Patil*, and *M. Narasihma Murty* published in *IJCAI-PRICAI 2020*.
 
-## CONTENTS
-- INSTALLATION
-- USAGE
-- CITATION
+## Contents
+- Installation
+- Usage
+- Citation
 
-## INSTALLATION
+## Installation
 
-## USAGE
+## Usage
 
-## CITATION
+## Citation
 ```
 @inproceedings{sharma2020c3mm,
   title={{C3MM: Clique-Closure based Hyperlink Prediction}},
